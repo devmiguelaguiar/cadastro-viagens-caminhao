@@ -1,0 +1,413 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\cadastrodeviagens\\listaobras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|solutionrelative:cadastrodeviagens\\listaobras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\cadastrodeviagens\\listaobras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|solutionrelative:cadastrodeviagens\\listaobras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\cadastrodeviagens\\models\\obras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|solutionrelative:cadastrodeviagens\\models\\obras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\cadastrodeviagens\\registrarobras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|solutionrelative:cadastrodeviagens\\registrarobras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\cadastrodeviagens\\registrarobras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|solutionrelative:cadastrodeviagens\\registrarobras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\cadastrodeviagens\\viagens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|solutionrelative:cadastrodeviagens\\viagens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\cadastrodeviagens\\listaviagens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|solutionrelative:cadastrodeviagens\\listaviagens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\cadastrodeviagens\\listacaminhoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|solutionrelative:cadastrodeviagens\\listacaminhoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|c:\\users\\mecan\\source\\repos\\cadastrodeviagens\\cadastrodeviagens\\listaviagens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|solutionrelative:cadastrodeviagens\\listaviagens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\cadastrodeviagens\\viagens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|solutionrelative:cadastrodeviagens\\viagens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\cadastrodeviagens\\services\\viagensservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|solutionrelative:cadastrodeviagens\\services\\viagensservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\cadastrodeviagens\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|solutionrelative:cadastrodeviagens\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\cadastrodeviagens\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|solutionrelative:cadastrodeviagens\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\cadastrodeviagens\\listacaminhoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|solutionrelative:cadastrodeviagens\\listacaminhoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\cadastrodeviagens\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|solutionrelative:cadastrodeviagens\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\cadastrodeviagens\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|solutionrelative:cadastrodeviagens\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\cadastrodeviagens\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|solutionrelative:cadastrodeviagens\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\cadastrodeviagens\\models\\viagensclasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|solutionrelative:cadastrodeviagens\\models\\viagensclasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\bin\\Debug\\Viagens.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CadastroDeViagens\\bin\\Debug\\Viagens.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\cadastrodeviagens\\listaviagens.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|solutionrelative:cadastrodeviagens\\listaviagens.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\cadastrodeviagens\\services\\caminhaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|solutionrelative:cadastrodeviagens\\services\\caminhaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\cadastrodeviagens\\services\\obraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|solutionrelative:cadastrodeviagens\\services\\obraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\cadastrodeviagens\\viagens.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|solutionrelative:cadastrodeviagens\\viagens.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\cadastrodeviagens\\models\\caminhao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2803E0D2-1480-4067-8EDA-9933711A42F7}|CadastroDeViagens\\CadastroDeViagens.csproj|solutionrelative:cadastrodeviagens\\models\\caminhao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\Menu.cs",
+              "RelativeDocumentMoniker": "CadastroDeViagens\\Menu.cs",
+              "ToolTip": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\Menu.cs",
+              "RelativeToolTip": "CadastroDeViagens\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T13:02:30.092Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListaObras.cs",
+              "DocumentMoniker": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\ListaObras.cs",
+              "RelativeDocumentMoniker": "CadastroDeViagens\\ListaObras.cs",
+              "ToolTip": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\ListaObras.cs",
+              "RelativeToolTip": "CadastroDeViagens\\ListaObras.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwC0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T12:39:34.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Obras.cs",
+              "DocumentMoniker": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\Models\\Obras.cs",
+              "RelativeDocumentMoniker": "CadastroDeViagens\\Models\\Obras.cs",
+              "ToolTip": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\Models\\Obras.cs",
+              "RelativeToolTip": "CadastroDeViagens\\Models\\Obras.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T11:49:41.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistrarObras.cs",
+              "DocumentMoniker": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\RegistrarObras.cs",
+              "RelativeDocumentMoniker": "CadastroDeViagens\\RegistrarObras.cs",
+              "ToolTip": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\RegistrarObras.cs",
+              "RelativeToolTip": "CadastroDeViagens\\RegistrarObras.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAmwC4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T13:24:40.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistrarObras.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\RegistrarObras.cs",
+              "RelativeDocumentMoniker": "CadastroDeViagens\\RegistrarObras.cs",
+              "ToolTip": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\RegistrarObras.cs [Design]",
+              "RelativeToolTip": "CadastroDeViagens\\RegistrarObras.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:28:52.26Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListaObras.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\ListaObras.cs",
+              "RelativeDocumentMoniker": "CadastroDeViagens\\ListaObras.cs",
+              "ToolTip": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\ListaObras.cs [Design]",
+              "RelativeToolTip": "CadastroDeViagens\\ListaObras.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T15:26:50.665Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListaViagens.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\ListaViagens.cs",
+              "RelativeDocumentMoniker": "CadastroDeViagens\\ListaViagens.cs",
+              "ToolTip": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\ListaViagens.cs [Design]",
+              "RelativeToolTip": "CadastroDeViagens\\ListaViagens.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T12:39:21.667Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Viagens.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\Viagens.cs",
+              "RelativeDocumentMoniker": "CadastroDeViagens\\Viagens.cs",
+              "ToolTip": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\Viagens.cs [Design]",
+              "RelativeToolTip": "CadastroDeViagens\\Viagens.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T11:19:18.528Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ListaCaminhoes.cs",
+              "DocumentMoniker": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\ListaCaminhoes.cs",
+              "RelativeDocumentMoniker": "CadastroDeViagens\\ListaCaminhoes.cs",
+              "ToolTip": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\ListaCaminhoes.cs",
+              "RelativeToolTip": "CadastroDeViagens\\ListaCaminhoes.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAewB8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T12:20:21.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ListaViagens.cs",
+              "DocumentMoniker": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\ListaViagens.cs",
+              "RelativeDocumentMoniker": "CadastroDeViagens\\ListaViagens.cs",
+              "ToolTip": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\ListaViagens.cs",
+              "RelativeToolTip": "CadastroDeViagens\\ListaViagens.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T12:48:27.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Viagens.cs",
+              "DocumentMoniker": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\Viagens.cs",
+              "RelativeDocumentMoniker": "CadastroDeViagens\\Viagens.cs",
+              "ToolTip": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\Viagens.cs",
+              "RelativeToolTip": "CadastroDeViagens\\Viagens.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAjwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T11:45:30.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ViagensService.cs",
+              "DocumentMoniker": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\Services\\ViagensService.cs",
+              "RelativeDocumentMoniker": "CadastroDeViagens\\Services\\ViagensService.cs",
+              "ToolTip": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\Services\\ViagensService.cs",
+              "RelativeToolTip": "CadastroDeViagens\\Services\\ViagensService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T12:06:45.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\Menu.cs",
+              "RelativeDocumentMoniker": "CadastroDeViagens\\Menu.cs",
+              "ToolTip": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\Menu.cs [Design]",
+              "RelativeToolTip": "CadastroDeViagens\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T12:55:21.896Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ListaCaminhoes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\ListaCaminhoes.cs",
+              "RelativeDocumentMoniker": "CadastroDeViagens\\ListaCaminhoes.cs",
+              "ToolTip": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\ListaCaminhoes.cs [Design]",
+              "RelativeToolTip": "CadastroDeViagens\\ListaCaminhoes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T15:27:17.028Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\Form1.cs",
+              "RelativeDocumentMoniker": "CadastroDeViagens\\Form1.cs",
+              "ToolTip": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\Form1.cs [Design]",
+              "RelativeToolTip": "CadastroDeViagens\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T11:29:46.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\Form1.cs",
+              "RelativeDocumentMoniker": "CadastroDeViagens\\Form1.cs",
+              "ToolTip": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\Form1.cs",
+              "RelativeToolTip": "CadastroDeViagens\\Form1.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAMwEIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T11:33:14.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\Program.cs",
+              "RelativeDocumentMoniker": "CadastroDeViagens\\Program.cs",
+              "ToolTip": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\Program.cs",
+              "RelativeToolTip": "CadastroDeViagens\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T11:30:41.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ViagensClasse.cs",
+              "DocumentMoniker": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\Models\\ViagensClasse.cs",
+              "RelativeDocumentMoniker": "CadastroDeViagens\\Models\\ViagensClasse.cs",
+              "ToolTip": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\Models\\ViagensClasse.cs",
+              "RelativeToolTip": "CadastroDeViagens\\Models\\ViagensClasse.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T11:23:26.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Viagens.json",
+              "DocumentMoniker": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\bin\\Debug\\Viagens.json",
+              "RelativeDocumentMoniker": "CadastroDeViagens\\bin\\Debug\\Viagens.json",
+              "ToolTip": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\bin\\Debug\\Viagens.json",
+              "RelativeToolTip": "CadastroDeViagens\\bin\\Debug\\Viagens.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-20T13:04:29.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ListaViagens.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\ListaViagens.Designer.cs",
+              "RelativeDocumentMoniker": "CadastroDeViagens\\ListaViagens.Designer.cs",
+              "ToolTip": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\ListaViagens.Designer.cs",
+              "RelativeToolTip": "CadastroDeViagens\\ListaViagens.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T12:48:21.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ObraService.cs",
+              "DocumentMoniker": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\Services\\ObraService.cs",
+              "RelativeDocumentMoniker": "CadastroDeViagens\\Services\\ObraService.cs",
+              "ToolTip": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\Services\\ObraService.cs",
+              "RelativeToolTip": "CadastroDeViagens\\Services\\ObraService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAxwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T11:54:02.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CaminhaoService.cs",
+              "DocumentMoniker": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\Services\\CaminhaoService.cs",
+              "RelativeDocumentMoniker": "CadastroDeViagens\\Services\\CaminhaoService.cs",
+              "ToolTip": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\Services\\CaminhaoService.cs",
+              "RelativeToolTip": "CadastroDeViagens\\Services\\CaminhaoService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T11:51:41.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Viagens.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\Viagens.Designer.cs",
+              "RelativeDocumentMoniker": "CadastroDeViagens\\Viagens.Designer.cs",
+              "ToolTip": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\Viagens.Designer.cs",
+              "RelativeToolTip": "CadastroDeViagens\\Viagens.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T11:44:46.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Caminhao.cs",
+              "DocumentMoniker": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\Models\\Caminhao.cs",
+              "RelativeDocumentMoniker": "CadastroDeViagens\\Models\\Caminhao.cs",
+              "ToolTip": "C:\\Users\\mecan\\source\\repos\\CadastroDeViagens\\CadastroDeViagens\\Models\\Caminhao.cs",
+              "RelativeToolTip": "CadastroDeViagens\\Models\\Caminhao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:59:25.083Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
