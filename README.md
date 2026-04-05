@@ -13,4 +13,5 @@ Basta baixar o release e executar a aplicação.
 Tecnologias:
 C#
 .NET
+Windows Forms
 JSON
